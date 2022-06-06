@@ -1,4 +1,4 @@
-/* 
+/** 
  * Description: main - Program that shows up whether a number is positive or negative.
  *Return : 0
 */
