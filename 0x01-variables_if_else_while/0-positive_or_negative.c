@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /* 
-   main - Program that shows up whether a number is positive or negative
-   Return : 0
+*main - Program that shows up whether a number is positive or negative
+*Return : 0
 */
 int main(void)
 {
