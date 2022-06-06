@@ -1,4 +1,3 @@
-
 /*
  * File: 9-print_comb.c
  * Auth: Klaus KIRA
